@@ -1,0 +1,22 @@
+div.milking{
+    padding: 2%;
+    width: 96%;
+    margin: 1rem auto;
+    background-color: #aaffaa;
+    border-radius: 10px;
+}
+
+.milkingform{
+    display: flex;
+    justify-content: space-around;
+}
+
+.milking h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+::placeholder{
+    text-transform: uppercase;
+}

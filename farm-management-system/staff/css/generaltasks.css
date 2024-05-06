@@ -1,0 +1,18 @@
+div.generaltasks{
+    padding: 2%;
+    width: 96%;
+    margin: 1rem auto;
+    border-radius: 10px;
+    background-color: #aaffaa;
+}
+
+.generaltasks h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.generalform{
+    display: flex;
+    justify-content: space-around;
+}

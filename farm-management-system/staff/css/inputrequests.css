@@ -1,0 +1,19 @@
+div.requests{
+    padding: 2%;
+    width: 96%;
+    margin: 0 auto;
+    background-color: #aaffaa;
+    border-radius: 10px;
+    margin-top: 2rem;
+}
+
+.requestform{
+    display: flex;
+    justify-content: space-around;
+}
+
+.requests h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,170 @@
+button{
+    cursor: pointer;
+}
+
+
+.herosec{
+    width:99%;
+    margin: 5px auto;
+    height: 85vh;
+    display: grid;
+    grid-template-columns: 35% 75%;
+    background-color: #00ff66;
+    overflow: hidden;
+}
+
+.herosec .hero-msg{
+    padding: 5%;
+    align-content: center;
+    line-height: 1.5;
+}
+
+.herosec .hero-msg h1{
+    color: #353;
+    font-weight: 200;
+}
+
+.herosec .hero-msg h3{
+    font-weight: 600;
+}
+
+.herosec .hero-img{
+    background-position: center center;
+    background-size: cover;
+}
+
+.grid1{
+    width: 99%;
+    margin: 1rem auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+
+.grid1 .grid-a{
+    padding: 3rem;
+    line-height: 1.5;
+    background-color: #aaffaa;
+    border-radius: 10px;
+}
+
+.grid1 .grid-a h2{
+    color: #006400;
+    font-weight: 500;
+}
+
+.grid1 .item2{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+
+.grid1 .item3{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 2 / 2;
+}
+
+.grid2{
+    width:99%;
+    margin: 1rem auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    height: 35rem;
+}
+
+.grid2 .grid-b{
+    line-height: 1.5;
+    background-color: #aaffaa;
+    border-radius: 10px;
+    overflow: hidden;
+    background-position: center center;
+    background-size: cover;
+}
+
+.grid2 .item1{
+    grid-row: 1 / 3;
+}
+
+.grid2 .item2{
+    padding: 2rem;
+    align-content: center;
+}
+
+.veggies{
+    width: 99%;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.veggies .grid-c .pic{
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+}
+
+.veggies .grid-c{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.veggies .info{
+    padding: 5%;
+    background-color: #aaffaa;
+    line-height: 1.5;
+}
+
+.veggies .grid-c h2{
+    color: #006400;
+    font-weight: 500;
+}
+
+.berries{
+    width: 80vw;
+    height: 10rem;
+    background-position: center center;
+    background-size: cover;
+    margin: 1rem auto;
+    border-radius: 10px;
+}
+
+
+
+.foot{
+	padding:4%;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	background-color:#006400;
+	margin-top:2rem;
+}
+
+.contacts{
+	display:flex;
+	justify-content:space-between;
+	width:70%;
+	margin:0 auto;
+}
+
+.f2{
+	width:400px;
+}
+
+.f2 ul li a{
+	color:white;
+}
+
+.nav1 ul li a:hover{
+	background-color:#006400;
+	color:white;
+}
+
+.f2 ul li a:hover{
+	background-color:white;
+	color:black;
+	padding:1px;
+}

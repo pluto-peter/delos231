@@ -1,0 +1,390 @@
+/* top nav */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    background-color: #d5ffd5;
+    transition: all 1s;
+}
+
+input{
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+.nav0{
+    height: 7rem;
+    background-color: #006400;
+    margin-bottom: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav0 h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: aliceblue;
+    align-self: center;
+}
+
+
+.logo{
+    height: 100%;
+}
+
+.icons1{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}
+
+.add-users-icon{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-users-icon img{
+    width: 50px;
+}
+
+.add-users-icon a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 5px;
+}
+
+.log-out-btn{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-users-icon:hover, .log-out-btn:hover{
+    background-color: #323232;
+}
+
+.log-out-btn img{
+    width: 30px;
+}
+
+.log-out-btn a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 5px;
+}
+
+nav{
+    background-color: #006400;
+    color: aliceblue;
+    height: 5rem;
+    display: flex;
+}
+
+
+.tablebtn{
+    width: 30%;
+    background-color: #33b864;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.tablebtn1{
+    width: 30%;
+    background-color: #9fe2bf;
+    color: black;
+    text-transform: uppercase;
+}
+
+/* main container */
+ 
+/* div.container{
+    display: flex;
+    position: relative;
+}  */
+
+
+/* side bar */
+
+div.side-bar{
+    background-color: #323232;
+    color: aliceblue;
+    width: 100%;
+    padding: 2%;
+}
+
+.side-bar .user-info{
+    width: 30%;
+    display: flex;
+    padding: 1%;
+}
+
+.name{
+    font-size: larger;
+}
+
+.access-type{
+    color: cornsilk;
+    margin-left: 5rem;
+}
+
+.side-bar .user-info img{
+    width: 30%;
+    border-radius: 50%;
+}
+
+.user-info p, small{
+    align-content: center;
+    margin-left: 1rem;
+}
+
+.user-info p{
+    font-size: larger;
+}
+
+.user-info small{
+    color: antiquewhite;
+}
+
+.menu-list .menu-list-items{
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.menu-list .menu-list-items a{
+    color: aliceblue;
+    text-decoration: none;
+    text-transform: uppercase;
+   
+}
+
+.menu-list .menu-list-items li{
+    border-bottom: 1px dotted aliceblue;
+    cursor: pointer;
+    padding: 5%;
+}
+
+.menu-list .menu-list-items li:hover{
+    background-color: aliceblue;
+}
+
+.menu-list .menu-list-items li:hover a{
+    color: black;
+}
+
+.show{
+    position: fixed;
+    left: -100%;
+    top: 0;
+}
+
+/* main content panel */
+
+
+/* forecast section */
+section.forecast{
+    height: 50vh;
+    border: 1px solid black;
+}
+
+/* high priority */
+
+.priority_header{
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: 200;
+    margin-bottom: 3rem; 
+    text-align: center; 
+    color: #006400;
+}
+
+.sqltable{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    width: 100%;
+}
+
+.sqltable table{
+    text-align: center;
+    width: 90%;
+    border-radius: 10px;
+}
+
+
+.sqltable table thead th{
+    padding: 20px;
+    text-transform: uppercase;
+    background-color: #80ffb3;
+    
+}
+
+
+.sqltable table tbody td{
+    padding: 10px;
+    background-color: #aaffaa;
+    color: #323232;
+}
+
+
+div.critical-maintenance{
+    background-color: #aaffaa;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+div.critical-maintenance h1{
+    text-transform: uppercase;
+    font-weight: 400;
+    text-align: center;
+    padding: 2rem;
+}
+
+
+
+.scheduletitle{
+    text-transform: uppercase;
+    padding: 2%;
+    font-weight: 200;
+    font-size: xx-large;
+    text-align: center;
+    word-spacing: 10px;
+    color: #006400;
+}
+
+.maintenance-details{
+    padding: 2%;
+    
+}
+
+div.inputsec1{
+    display: flex;
+    align-items: center;
+}
+
+.inputsec1 > div{
+    width: 50%;
+}
+
+.inputsec1 label{
+    padding: 10px;
+    display: inline-block;
+    width: 40%;
+}
+
+.vehiclesubmitbtn{
+    padding: 16px 20px;
+    align-items: center;
+    margin: 1rem auto;
+    border-radius: 20px;
+    background-color: #323232;
+    color: aliceblue;
+    border: none;
+    text-transform: uppercase;
+}
+
+.vehiclesubmitbtn:hover{
+    background-color: #006400;
+    color: white;
+}
+
+.vehicles-input{
+    max-height: 2rem;
+    max-width: 100%;
+}
+
+.errormsg{
+    color: red;
+    font-size: small;
+    padding-left: 5%;
+}
+
+
+div.infrastructure-maintenance{
+
+    background-color: #aaffaa;
+    width: 96%;
+    padding: 2%;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin: 0 auto;
+}
+
+.infrastructure-form{
+    display: flex;
+}
+
+.infrastructure-form > div{
+    width: 50%;
+}
+
+.infrastructure-form label{
+    width: 40%;
+    padding: 10px;
+    display: inline-block;
+}
+
+.btn2{
+    max-height: 3rem;
+}
+
+.form-header{
+    text-transform: uppercase;
+    padding: 2%;
+    text-align: center;
+}
+
+
+div.crop-protection{
+    width: 96%;
+    margin: 1rem auto;
+    background-color: #aaffaa;
+    padding: 2%;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+}
+
+.crop-protection-form{
+    display: flex;
+}
+
+.crop-protection-form label, input{
+    margin: 10px;
+}
+
+
+div.crop-protection h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 2%;
+}
+
+.select{
+    border: none;
+}
+
+
+/* footer */
+
+footer{
+    height: 5rem;
+    background-color: #006400;
+}
+
+
+

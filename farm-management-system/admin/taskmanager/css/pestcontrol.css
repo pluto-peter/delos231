@@ -1,0 +1,31 @@
+div.pest-control{
+    width: 96%;
+    padding: 2%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #aaffaa;
+}
+
+.pest-control h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+}
+
+.grid1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.btn3{
+    width: 15rem;
+    background-color: #323232;
+    border: none;
+    color: aliceblue;
+    text-transform: uppercase;
+    max-height: 3rem;
+}
+    
+.btn3:hover{
+        background-color: #006400;
+}

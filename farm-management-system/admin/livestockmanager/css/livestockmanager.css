@@ -1,0 +1,35 @@
+.btn3{
+    width: 15rem;
+    background-color: #323232;
+    border: none;
+    color: aliceblue;
+    text-transform: uppercase;
+    max-height: 3rem;
+}
+    
+.btn3:hover{
+        background-color: #006400;
+}
+
+.livestock1, .livestock2, .livestock3{
+    padding: 2%;
+    width: 96%;
+    margin: 0 auto;
+    background-color: #aaffaa;
+    border-radius: 10px;
+}
+
+.livestockform1, .livestockform2, .livestockform3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.livestock1 h1, .livestock2 h1, .livestock3 h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.livestock1{
+    margin-top: 1rem;
+}

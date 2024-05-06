@@ -1,0 +1,35 @@
+div.adduser{
+    padding: 2%;
+    width: 96%;
+    margin: 0 auto;
+    background-color: #aaffaa;
+    border-radius: 10px;
+    margin-top: 2rem;
+}
+
+.newuser{
+    display: flex;
+    justify-content: space-around;
+}
+
+.adduser h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.btn7{
+    width: 15rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.del{
+    color: crimson;
+}
+
+.edit{
+    color: #006400;
+}

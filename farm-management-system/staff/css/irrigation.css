@@ -1,0 +1,32 @@
+div.irrigation-tasks{
+    padding: 2%;
+    width: 96%;
+    background-color: #aaffaa;
+    margin: 2rem auto;
+    border-radius: 10px;
+}
+
+.irrigation-tasks .irrigation-header{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.irrigation-details{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    width: 100%;
+}
+
+.submitbtn{
+    width: 15rem;
+    background-color: #323232;
+    border: none;
+    color: aliceblue;
+    text-transform: uppercase;
+    margin-top: 5%;
+}
+
+.submitbtn:hover{
+    background-color: #006400;
+}

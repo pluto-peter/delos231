@@ -1,0 +1,130 @@
+button{
+    cursor: pointer;
+}
+
+.hero-sec{
+    width: 98%;
+    margin: 5px auto;
+    height: 90vh;
+    border: #006400 solid 1px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.hero-logo{
+    background-color: #784421;
+}
+
+.hero-logo p{
+    padding: 5%;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+.hero-logo img{
+    height: 50%;
+    width: 20rem;
+    margin-left: 3rem;
+}
+
+.hero-logo .watchbtn{
+    text-transform: uppercase;
+    margin-left: 5%;
+    padding: 16px 20px;
+    background-color: #353432;
+    color: floralwhite;
+    border-radius: 10px;
+}
+
+.watchbtn:hover{
+    background-color: black;
+}
+
+.hero-image{
+    background-position: center center;
+    background-size: cover;
+}
+
+.grid1{
+    width: 96%;
+    margin: 1rem auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.grid1 .abouts{
+    padding: 5%;
+    background-color: #aaffaa;
+    border-radius: 10px;
+    line-height: 1.5;
+}
+
+.grid1 .abouts h2{
+    color: #006400;
+}
+
+.foot-image{
+    height: 65vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    overflow: hidden;
+}
+
+.foot-image .the-pic{
+    background-position: center center;
+    background-size: cover;
+}
+
+.foot-image .foot-text{
+    padding: 5%;
+    background-color: #aaffaa;
+    background-position: bottom 40px right 40px;
+    background-repeat: no-repeat;
+    background-size: 40px 40px;
+    color:  #353432;
+}
+
+.ceo{
+    color: black;
+}
+
+.foot-text span{
+    color: black;
+}
+
+
+.foot{
+    margin-top: 1rem;
+	padding:4%;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	background-color:#006400;
+}
+
+.contacts{
+	display:flex;
+	justify-content:space-between;
+	width:70%;
+	margin:0 auto;
+}
+
+.f2{
+	width:400px;
+}
+
+.f2 ul li a{
+	color:white;
+}
+
+.nav1 ul li a:hover{
+	background-color:#006400;
+	color:white;
+}
+
+.f2 ul li a:hover{
+	background-color:white;
+	color:black;
+	padding:1px;
+}

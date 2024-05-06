@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 320 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="facebook-f.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.99414062"
+     inkscape:cx="160.44008"
+     inkscape:cy="256"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     d="M80 299.3V512H196V299.3h86.5l18-97.8H196V166.9c0-51.7 20.3-71.5 72.7-71.5c16.3 0 29.4 .4 37 1.2V7.9C291.4 4 256.4 0 236.2 0C129.3 0 80 50.5 80 159.4v42.1H14v97.8H80z"
+     id="path1" />
+  <path
+     style="fill:#ffffff;stroke-width:1.00589"
+     d="M 80.471513,405.37525 V 298.75049 H 47.277014 14.082515 v -48.28291 -48.2829 h 33.074681 33.07468 l 0.52791,-35.45776 C 81.402934,123.52906 83.229042,109.11939 91.005295,85.880399 107.71051,35.957604 144.23356,9.432911 206.51253,1.9938251 c 23.35407,-2.78959317 67.58106,-0.3622826 93.0941,5.1092866 l 5.17922,1.1107446 V 52.040088 95.866321 l -17.85461,-0.677214 c -19.37102,-0.73473 -39.54889,0.469231 -49.13225,2.931594 -20.91653,5.374339 -33.85874,18.076049 -39.05982,38.334049 -2.20264,8.57915 -3.56099,26.74519 -3.57983,47.87531 l -0.0159,17.85462 h 52.41553 52.41553 l -0.52068,2.26326 c -0.28637,1.24479 -4.29615,22.97 -8.91062,48.27824 l -8.38994,46.01497 -43.50491,0.005 -43.50491,0.005 V 405.37525 512 H 137.80747 80.471513 Z"
+     id="path2" />
+</svg>

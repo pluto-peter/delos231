@@ -1,0 +1,38 @@
+.preparationsec{
+    width: 96%;
+    margin: 0 auto;
+    padding: 2%;
+    background-color: #aaffaa;
+    border-radius: 10px;
+}
+
+.planting{
+    width: 96%;
+    margin: 0 auto;
+    padding: 2%;
+    background-color: #aaffaa;
+    border-radius: 10px;
+}
+
+.preparationsec h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+}
+
+.planting h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+}
+
+.prepform{
+    display: flex;
+    justify-content: space-around;
+}
+
+.plantingdetails{
+    display: flex;
+    justify-content: space-evenly;
+}
+

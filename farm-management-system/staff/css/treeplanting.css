@@ -1,0 +1,12 @@
+div.treeplanting{
+    padding: 2%;
+    width: 96%;
+    margin: 1rem auto;
+    border-radius: 10px;
+    background-color: #aaffaa;
+}
+
+.treedetails{
+    display: flex;
+    justify-content: space-around;
+}

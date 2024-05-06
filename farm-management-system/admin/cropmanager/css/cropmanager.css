@@ -1,0 +1,22 @@
+.cropdata1, .cropdata2, .cropdata3{
+    padding: 2%;
+    width: 96%;
+    margin: 0 auto;
+    background-color: #aaffaa;
+    border-radius: 10px;
+}
+
+.cropform1, .cropform2, .cropform3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cropdata1 h1, .cropdata2 h1, .cropdata3 h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.cropdata1{
+    margin-top: 1rem;
+}

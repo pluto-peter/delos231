@@ -1,0 +1,107 @@
+[
+{
+	"id": 1,
+	"name": "Cabbage",
+	"initialprice": "Ksh.77",
+	"price": 54,
+	"image": "images/5a1c5cd90e2311.6277293215118082170579.png"
+},
+{
+	"id": 2,
+	"name": "Apples",
+	"initialprice": "Ksh.344",
+	"price": 238,
+	"image": "images/transparent-nectarines-red-apples-green-leaves-ripe-fruit-stil-painting-of-ripe-red-apples-on-black6619e13e0ad002.34285360.png"
+},
+{
+	"id": 3,
+	"name": "Chicken",
+	"initialprice": "Ksh.9088",
+	"price": 8099,
+	"image":"images/kisspng-chicken-meat-buffalo-wing-raw-foodism-5ae16cbaa69e75.6756201015247228746825.png"
+},
+{
+	"id": 4,
+	"name": "Mangoes",
+	"initialprice": "Ksh.477",
+	"price": 276,
+	"image": "images/kisspng-mango-juice-ataulfo-flavor-fruit-mangoes-5b3308930df1a9.9624915615300711870571.png"
+},
+{
+	"id": 5,
+	"name": "Fresh Juice",
+	"initialprice": "Ksh.104",
+	"price": 78,
+	"image": "images/kisspng-orange-juice-punch-smoothie-apple-juice--5b7f503038fb97.5364963115350702562334.png"
+},
+{
+	"id": 6,
+	"name": "Honey",
+	"initialprice": "Ksh.911",
+	"price": 832,
+	"image": "images/kisspng-honey-bee-honey-bee-food-sweetness--5b6dce0444a3e2.0453691215339228202812.png"
+},
+{
+	"id": 7,
+	"name": "Assorted Fruits",
+	"initialprice": "Ksh.1022",
+	"price": 899,
+	"image": "images/kisspng-organic-food-milk-food-gift-baskets-grocery-5abeaffc1e5b25.0009886715224463321244.png"
+},
+{
+	"id": 8,
+	"name": "Carrots",
+	"initialprice": "Ksh.154",
+	"price": 77,
+	"image": "images/kisspng-carrot-nutrition-root-vegetable-vegetables-carrots-5a86bf3659d699.080830441518780214368.png"
+},
+{
+	"id": 9,
+	"name": "Pasteurized Milk",
+	"initialprice": "Ksh.62",
+	"price": 44,
+	"image": "images/transparent-watermelon-glass-of-milk-with-fruit-and-cheese658d4a42a87e40.0644139617037584026902.png"
+},
+{
+	"id": 10,
+	"name": "Salmon",
+	"initialprice": "Ksh.7734",
+	"price": 6709,
+	"image": "images/kisspng-sashimi-fish-steak-fish-slice-meat-5b2f3cf7caa682.9885336215298224558301.png"
+},
+{
+	"id": 11,
+	"name": "Melons",
+	"initialprice": "Ksh.98",
+	"price": 85,
+	"image": "images/transparent-summer-fruits-three-types-of-melon-juicy-flesh-exposed661a3b208dd258.18220995.png"
+},
+{
+	"id": 12,
+	"name": "Organic Blended Juice",
+	"initialprice": "Ksh.94",
+	"price": 89,
+	"image": "images/transparent-summer-beverage-vibrant-image-of-orange-juice-with-fruit661b41b4051f02.73486688.png"
+},
+{
+	"id": 13,
+	"name": "Beef",
+	"initialprice": "Ksh.786",
+	"price": 665,
+	"image": "images/kisspng-red-meat-beef-food-boucherie-meat-png-free-png-images-toppng-5b7f4dfa470a50.195702911535069690291.png"
+},
+{
+	"id": 14,
+	"name": "Assorted Vegetables",
+	"initialprice": "Ksh.569",
+	"price": "443",
+	"image": "images/kisspng-vegetable-chicken-curry-food-fruit-vegetables-5abb8a2ce452e9.4121232815222400449352.png"
+},
+{
+	"id": 15,
+	"name": "Water Melons",
+	"initialprice": "Ksh.107",
+	"price": 90,
+	"image": "images/transparent-watermelon-5d782ed47cea38.3830433615681573965117.png"
+}
+]

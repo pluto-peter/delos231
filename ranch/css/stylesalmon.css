@@ -1,0 +1,84 @@
+
+.pics{
+	height:25rem;
+	display:flex;
+	width:99.5%;
+	margin:0 auto;
+}
+
+.cont1{
+	width:50%;
+	display:flex;
+}
+
+.image1{
+	height:100%;
+	width:45%;
+}
+
+.gall1{
+	height:100%;
+	width:100%;
+	border:1px solid #98fb98;
+}
+
+.image2{
+	height:100%;
+	width:55%;
+}
+
+.image2-1{
+	height:50%;
+	display:flex;
+}
+
+.image211{
+	height:100%;
+	width:50%;
+}
+
+.image212{
+	height:100%;
+	width:50%;
+}
+
+.image2-2{
+	height:50%;
+}
+
+.cont2{
+	width:50%;
+	display:flex;
+}
+
+.image3{
+	height:100%;
+	width:70%;
+}
+
+.image31{
+	height:70%;
+	width:100%;
+}
+
+.image32{
+	height:30%;
+	width:100%;
+	display:flex;
+}
+
+.image321{
+	height:100%;
+	width:60%;
+}
+
+.image322{
+	height:100%;
+	width:40%;
+}
+
+.image4{
+	height:100%;
+	width:30%;
+}
+
